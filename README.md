@@ -1,5 +1,3 @@
-# website-scraper-pro
-🕷️ Intelligent website scraper with search, analysis, and export features for LLM training.
 # 🕷️ Website Scraper Pro
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
